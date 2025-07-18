@@ -18,6 +18,7 @@ A professional HR data analytics project built using Power BI. It focuses on tra
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](dashboard-screenshot.png)
+
 Link: https://app.powerbi.com/view?r=eyJrIjoiNGU3NGQ1Y2ItOTNkYi00MmQ3LTgxNGEtMjFkYjdiN2Q4NTMyIiwidCI6IjZiMzQ2ODk5LTRlZDYtNDc2MS1hYjc1LThhMmRiMGUyN2U3MiIsImMiOjh9
 
 ## 🛠 Tools Used
