@@ -15,10 +15,11 @@ A professional HR data analytics project built using Power BI. It focuses on tra
 - `HRDataset_v14.csv`: Source HR dataset
 - Data includes: demographics, employment history, satisfaction scores, engagement levels, absenteeism, etc.
 
-## 🔗 Live Power BI Report
-> You can view the interactive version of the dashboard here:
-> 
-Link: https://app.powerbi.com/view?r=eyJrIjoiNGU3NGQ1Y2ItOTNkYi00MmQ3LTgxNGEtMjFkYjdiN2Q4NTMyIiwidCI6IjZiMzQ2ODk5LTRlZDYtNDc2MS1hYjc1LThhMmRiMGUyN2U3MiIsImMiOjh9
+- ## 🔗 Live Power BI Dashboard
+
+Explore the interactive dashboard here:  
+👉 [**View Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiNGU3NGQ1Y2ItOTNkYi00MmQ3LTgxNGEtMjFkYjdiN2Q4NTMyIiwidCI6IjZiMzQ2ODk5LTRlZDYtNDc2MS1hYjc1LThhMmRiMGUyN2U3MiIsImMiOjh9)
+
 
 ## 🛠 Tools Used
 
